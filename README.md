@@ -1,3 +1,12 @@
+Tired of PotHoles around your neighborhood!!!! 
+
+You dont know who is going to fix them or when?
+
+Here goes PotHead, this app will allow you to map your location and seemlessly file your complaint with your local county.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
